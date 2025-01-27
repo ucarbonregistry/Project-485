@@ -21,5 +21,6 @@ __________________
 Unit /Installed Capacity Location /Commercial Operation Date
 __________
 São Francisco Plant (USF) /80 MW/ Quirinópolis, Goiás /November 22, 2007
+_____________
 Rio Dourado Plant (URD) /40 MW /Cachoeira Dourada, Goiás /January 19, 2013
 _______________
