@@ -1,5 +1,5 @@
 # Project-485
-: 120 MW Sugarcane Bagasse based co-generation Energy SJC BIOENERGIA
+120 MW Sugarcane Bagasse based co-generation Energy SJC BIOENERGIA
 
 Scale of the project activity Large Scale
 
@@ -75,3 +75,21 @@ optimization of agricultural and industrial operations.
 
 In July 2013, the Rio Dourado Plant (URD) was inaugurated, with the most modern industrial
 structure in the country at the time. The unit is dedicated to the production of ethanol and electricity
+____________
+STAKEHOLDER COMMENT
+______________
+The certification of this cogeneration project, represents a serious risk of double counting.
+
+As stated in SJC Bioenergia Sustainability Report, they are CBIOs issuers (all biofuel producers are obliged to).
+Link to Report: Relat.pdf
+I-REC
+The plants are registered to issue I-RECs, however, in the project registered with the UCR the names of the plants are different from the official registered names, according to data taken from the I-REC tracking system.
+__________
+PP re-submitted the project (PCN) again with the necessary revisions.
+Among them:
+- In section B.6.  Prior History, i-REC and Renovabio certification has been added, with all the considerations and methodology that PP will adopt to avoid double counting;
+- I included two more SDGs, 16 and 17;
+- In section A.2., Environmental benefits, comments about Renovabio were also included;
+- In section B.3.  Applicability of double counting emission reductions, issues of iRECs and Renovabio were also included and how they will be discounted to avoid double counting;
+
+- PROJECT REGISTERED UNDER UCR on 29/04/2025
