@@ -88,8 +88,88 @@ __________
 PP re-submitted the project (PCN) again with the necessary revisions.
 Among them:
 - In section B.6.  Prior History, i-REC and Renovabio certification has been added, with all the considerations and methodology that PP will adopt to avoid double counting;
-- I included two more SDGs, 16 and 17;
+- Included two more SDGs, 16 and 17;
 - In section A.2., Environmental benefits, comments about Renovabio were also included;
 - In section B.3.  Applicability of double counting emission reductions, issues of iRECs and Renovabio were also included and how they will be discounted to avoid double counting;
 
 - PROJECT REGISTERED UNDER UCR on 29/04/2025
+
+  _______________
+ISSUANCE DATE: 22/07/2025
+
+MP-01: 01/01/2013-31/12/2024
+
+QTY: 1441847
+______________
+Serial Number: 0001-000001-146821-UCR-CoU-BR-485-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 146821
+_______________
+Serial Number: 0001-146822-321713-UCR-CoU-BR-485-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 174892
+____________
+Serial Number: 0001-321714-485634-UCR-CoU-BR-485-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 163921
+___________
+Serial Number: 0001-485635-642366-UCR-CoU-BR-485-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 156732
+____________
+Serial Number: 0001-642367-761716-UCR-CoU-BR-485-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 119350
+___________
+Serial Number: 0001-761717-894768-UCR-CoU-BR-485-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 133052
+____________
+Serial Number: 0001-894769-1014811-UCR-CoU-BR-485-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 120043
+___________
+Serial Number: 0001-1014812-1119581-UCR-CoU-BR-485-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 104770
+__________
+Serial Number: 0001-1119582-1227800-UCR-CoU-BR-485-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 108219
+_____________
+Serial Number: 0001-1227801-1285862-UCR-CoU-BR-485-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 58062
+_____________
+Serial Number: 0001-1285863-1352988-UCR-CoU-BR-485-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 67126
+_____________
+Serial Number: 0001-1352989-1441847-UCR-CoU-BR-485-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 88859
+_____________
